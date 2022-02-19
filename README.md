@@ -37,6 +37,3 @@ This is a solution to [NFT preview card component challenge on Frontend Mentor](
 
 use of responisve design elements like, fluid layout, responsize units(rem), flexible images.
 
-### Continued Developments
-
-Planning to develop a component using react js.
